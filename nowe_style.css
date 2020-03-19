@@ -1,0 +1,1000 @@
+    html {
+font-family: raleway;
+border-top: 50px solid rgb(0, 0, 0);
+margin: 0;
+padding 0;
+overflow-x: hidden;
+}
+
+    #sit-on-chair {
+position: absolute;
+color: rgb(255, 255, 255);
+top: 5px;
+left: 62px;
+font-size: 85%;
+font-weight: 500;
+letter-spacing: 1px;
+}
+
+    #on {
+color: rgb(35, 201, 179);
+font-weight: 1000;
+}
+
+    #o-firmie {
+position: absolute;
+color: rgb(255, 255, 255);
+top: 7px;
+left: 985px;
+font-size: 85%;
+font-weight: 600;
+letter-spacing: 1px;
+} 
+
+    #galeria {
+position: absolute;
+color: rgb(255, 255, 255);
+top: 7px;
+left: 1100px;
+font-size: 85%;
+font-weight: 600;
+letter-spacing: 1px;
+}
+
+    #kontakt {
+position: absolute;
+color: rgb(255, 255, 255);
+top: 7px;
+left: 1200px;
+font-size: 85%;
+font-weight: 600;
+letter-spacing: 1px;
+}
+
+    #tlo {
+position: relative;
+margin: 0;
+padding: 0;
+width: 1366px;
+height: 500px;
+bottom: 44px;
+right: 8px;
+}
+
+    #krzeslo {
+position: absolute;
+width: 600px; 
+top: 120px;
+left: 100px;
+}
+
+#strzalka1 {
+position: absolute;
+top: 250px;
+left: 1220px;
+font-size: 510%;
+font-weight: 300;
+color: rgb(34, 186, 165);
+cursor: pointer;
+}
+
+#strzalka2 {
+position: absolute;
+top: 250px;
+left: 40px;
+font-size: 510%;
+font-weight: 300;
+color: rgb(34, 186, 165);
+cursor: pointer;
+}
+
+#strzalka1:visited {
+visibility: none;
+}
+
+    #sit-on-our-chair {
+position: absolute;
+top: 160px;
+left: 720px;
+font-size: 260%;
+font-weight: 500;
+}  
+
+    .on_chair {
+color: rgb(40, 181, 164);
+font-weight: bold;
+}
+
+    #text {
+position: absolute;
+text-align: center;
+font-weight: 500;
+font-size: 95%;
+top: 250px;
+left: 695px;
+}
+
+    #button {
+position: absolute;
+border-style: none;
+bottom: 220px;
+left: 785px;
+background-color: rgb(36, 186, 159);
+color: rgb(255, 255, 255);
+border-radius: 10px;
+width: 245px;
+height: 45px;
+font-size: 140%;
+box-shadow: 0 0 0 3px rgb(36, 186, 159);
+cursor: pointer;
+}
+
+    #button:hover {
+box-shadow: none;
+}
+
+
+
+    a:link, a:visited {
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+            
+      #info {
+color: black;
+position: absolute;
+text-decoration: none;
+left: 100px;
+}
+
+    ol {
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-size: 18px;
+height: 2em;
+line-height: 2em;
+text-align: center;
+}
+
+    ol > li{
+color: rgb(155, 225, 200);
+}
+
+    ol > li:hover {
+background-color: rgb(0, 0, 0);
+position: relative;
+z-index: 100; 
+}
+
+
+    ol > li > ul {
+position: relative;
+padding: 10px;
+margin: 0;
+list-style-type: none;
+text-align: center;
+z-index: 100;
+display: none;
+}
+
+    ol > li:hover > ul {
+display: block;
+}
+
+    #chair_clair {
+position: absolute;
+left: 120px;
+top: 573px;
+display: block;
+}
+
+
+    #chair_clair1 {
+position: absolute;
+top: 730px;
+left: 140px;
+font-weight: bold;
+background-color: rgba(255, 255, 255, 0.3);
+width: 300px;
+margin-left: -20px;
+margin-top: 5px;
+padding-left: 20px;
+padding: 18px;
+padding-bottom: 40px;
+line-height: 10px;
+display: block;
+}
+
+
+    #chair_margharita {
+position: absolute;
+left: 480px;
+top: 573px; 
+}
+
+    #chair_margharita1 {
+position: absolute;
+top: 730px;
+left: 500px;
+font-weight: bold;
+background-color: rgba(255, 255, 255, 0.3);
+width: 400px;
+margin-left: -20px;
+margin-top: 5px;
+padding-left: 20px;
+padding: 18px;
+padding-bottom: 40px;
+line-height: 10px;
+}
+
+    #side_text{
+position: absolute;
+left: 864px;
+top: 572px;
+border: 1px solid rgb(219, 219, 219); 
+padding: 60px;
+padding-left: 26px;
+padding-right:  30px;
+padding-bottom: 26px;
+line-height: 20px;
+font-size: 14px;
+font-weight: 400;
+color: rgb(86, 86, 86);
+}
+
+   #side_text_header{
+position: absolute;
+left: 890px;
+top: 580px;
+border-bottom: 8px solid rgb(39, 199, 171);
+width: 140px;
+height: 40px;
+}
+
+   #tlo2{
+position: absolute;
+top: 900px;
+left: 0px;
+height: 700px;
+}
+
+   #cennik{
+position: absolute;
+top: 930px;
+left: 110px;
+font-size: 20px;
+font-weight: 500;
+color: rgb(87, 87, 87);
+border-bottom: 8px solid rgb(39, 199, 171);
+width: 320px;
+}
+
+/* Box numer 1 */
+
+#box{
+position: absolute;
+background-color: rgb(249, 249, 249);
+width: 310px;
+height: 500px;
+display: block;
+border: 2px solid rgb(219, 219, 219);
+border-radius: 3px;
+top: 1050px;
+left: 110px;
+cursor: pointer;
+}
+
+#circle{
+position: absolute;
+top: -20px;
+left: 140px;
+width: 30px;
+height: 30px;
+background-color: rgb(194, 194, 194);
+box-shadow: 0 0 0 15px rgb(255, 255, 255), 0 0 0 17px rgb(194, 194, 194);
+border-radius: 50%
+}
+
+#basic_plan {
+position: absolute;
+top: 20px;
+left: 80px;
+color: rgb(39, 199, 171);
+font-size: 160%;
+font-weight: 500;
+}
+
+#circle2 {
+position: absolute;
+width: 130px; 
+height: 130px;
+top: 100px;
+left: 90px;
+background-color: rgb(255, 255, 255);
+border-radius: 50%;
+box-shadow: 0 0 0 2px rgb(218, 218, 218);
+}
+
+#circle2:after {
+position: absolute;
+content: "85";
+color: rgb(196, 196, 196);
+font-size: 300%;
+font-weight: 600;
+left: 30px;
+top: 30px;
+}
+
+#circle2:before {
+position: absolute;
+content: "PLN/MSC";
+color: rgb(196, 196, 196);
+font-size: 100%;
+font-weight: 600;
+left: 28px;
+top: 90px;
+}
+
+#circle2_sup {
+position: absolute;
+color: rgb(196, 196, 196);
+left: 85px;
+top: 35px;
+font-size: 90%;
+font-weight: 700;
+}
+
+#ztd {
+position: absolute;
+color: rgb(149, 149, 149);
+background-color: rgb(228, 228, 228);
+top: 230px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#serwis {
+position: absolute;
+color: rgb(111, 111, 111);
+background-color: rgb(241, 241, 241);
+top: 275px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#dolacz {
+position: absolute;
+color: rgb(255, 255, 255);
+background-color: rgb(39, 199, 171);
+border-radius: 8px;
+top: 430px;
+left: 100px;
+width: 100px;
+height: 20px;
+padding: 5px;
+text-align: center;
+font-size: 95%;
+font-weight: 400;
+line-height: 20px;
+}
+
+/* styl box */
+
+#box:hover {
+border-color: rgb(39, 199, 171);
+background-color: rgb(39, 199, 171);
+}
+
+#box:hover #circle {
+box-shadow: 0 0 0 17px rgb(39, 199, 171);
+background-color: rgb(255, 255, 255);
+}
+
+#box:hover #basic_plan {
+color: white;
+}
+
+#box:hover #circle2 {
+box-shadow: 0 0 0 2px rgb(39, 199, 171);
+} 
+
+#box:hover #circle2:after {
+color: rgb(39, 199, 171);
+}
+
+#box:hover #circle2:before {
+color: rgb(39, 199, 171);
+}
+
+#box:hover #circle2_sup {
+color: rgb(39, 199, 171);
+}
+
+#box:hover #ztd {
+background-color: rgb(255, 255, 255);
+}
+
+#box:hover #serwis {
+color: rgb(164, 164, 164);
+}
+
+#box:hover #dolacz {
+background-color: rgb(255, 255, 255);
+color: rgb(39, 199, 171);
+}
+
+
+/* Box numer 2 */
+
+#box2 {
+position: absolute;
+background-color: rgb(249, 249, 249);
+width: 310px;
+height: 500px;
+display: block;
+border: 2px solid rgb(219, 219, 219);
+border-radius: 3px;
+top: 1050px;
+left: 510px;
+cursor: pointer;
+}
+
+#circle_2 {
+position: absolute;
+top: -20px;
+left: 140px;
+width: 30px;
+height: 30px;
+background-color: rgb(194, 194, 194);
+box-shadow: 0 0 0 15px rgb(255, 255, 255), 0 0 0 17px rgb(194, 194, 194);
+border-radius: 50%
+}
+
+#standard_plan {
+position: absolute;
+top: 20px;
+left: 50px;
+width: 330px;
+color: rgb(39, 199, 171);
+font-size: 160%;
+font-weight: 500;
+}
+
+#circle3 {
+position: absolute;
+width: 130px; 
+height: 130px;
+top: 100px;
+left: 90px;
+background-color: rgb(255, 255, 255);
+border-radius: 50%;
+box-shadow: 0 0 0 2px rgb(218, 218, 218);
+}
+
+#circle3:after {
+position: absolute;
+content: "95";
+color: rgb(196, 196, 196);
+font-size: 300%;
+font-weight: 600;
+left: 30px;
+top: 30px;
+}
+
+#circle3:before {
+position: absolute;
+content: "PLN/MSC";
+color: rgb(196, 196, 196);
+font-size: 100%;
+font-weight: 600;
+left: 28px;
+top: 90px;
+}
+
+#circle3_sup {
+position: absolute;
+color: rgb(196, 196, 196);
+left: 85px;
+top: 35px;
+font-size: 90%;
+font-weight: 700;
+}
+
+#ztd2 {
+position: absolute;
+color: rgb(149, 149, 149);
+background-color: rgb(228, 228, 228);
+top: 230px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#serwis2 {
+position: absolute;
+color: rgb(111, 111, 111);
+background-color: rgb(241, 241, 241);
+top: 275px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#g5l {
+position: absolute;
+color: rgb(149, 149, 149);
+background-color: rgb(228, 228, 228);
+top: 320px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#dolacz2 {
+position: absolute;
+color: rgb(255, 255, 255);
+background-color: rgb(39, 199, 171);
+border-radius: 8px;
+top: 440px;
+left: 100px;
+width: 100px;
+height: 20px;
+padding: 5px;
+text-align: center;
+font-size: 95%;
+font-weight: 400;
+line-height: 20px;
+}
+
+/* styl box2 */
+
+#box2:hover {
+border-color: rgb(39, 199, 171);
+background-color: rgb(39, 199, 171);
+}
+
+#box2:hover #circle_2 {
+box-shadow: 0 0 0 17px rgb(39, 199, 171);
+background-color: rgb(255, 255, 255);
+}
+
+#box2:hover #standard_plan {
+color: white;
+}
+
+#box2:hover #circle3 {
+box-shadow: 0 0 0 2px rgb(39, 199, 171);
+} 
+
+#box2:hover #circle3:after {
+color: rgb(39, 199, 171);
+}
+
+#box2:hover #circle3:before {
+color: rgb(39, 199, 171);
+}
+
+#box2:hover #circle3_sup {
+color: rgb(39, 199, 171);
+}
+
+#box2:hover #ztd2 {
+background-color: rgb(255, 255, 255);
+}
+
+#box2:hover #serwis {
+color: rgb(164, 164, 164);
+}
+
+#box2:hover #g5l {
+background-color: rgb(255, 255, 255);
+}
+
+
+#box2:hover #dolacz2 {
+background-color: rgb(255, 255, 255);
+color: rgb(39, 199, 171);
+}
+
+/* Box numer 3 */
+
+#box3 {
+position: absolute;
+background-color: rgb(249, 249, 249);
+width: 310px;
+height: 500px;
+display: block;
+border: 2px solid rgb(219, 219, 219);
+border-radius: 3px;
+top: 1050px;
+left: 910px;
+cursor: pointer;
+}
+
+#circle_3 {
+position: absolute;
+top: -20px;
+left: 140px;
+width: 30px;
+height: 30px;
+background-color: rgb(194, 194, 194);
+box-shadow: 0 0 0 15px rgb(255, 255, 255), 0 0 0 17px rgb(194, 194, 194);
+border-radius: 50%
+}
+
+#advance_plan {
+position: absolute;
+top: 20px;
+left: 50px;
+width: 330px;
+color: rgb(39, 199, 171);
+font-size: 160%;
+font-weight: 500;
+}
+
+#circle4 {
+position: absolute;
+width: 130px; 
+height: 130px;
+top: 100px;
+left: 90px;
+background-color: rgb(255, 255, 255);
+border-radius: 50%;
+box-shadow: 0 0 0 2px rgb(218, 218, 218);
+}
+
+#circle4:after {
+position: absolute;
+content: "211";
+color: rgb(196, 196, 196);
+font-size: 300%;
+font-weight: 600;
+left: 20px;
+top: 30px;
+}
+
+#circle4:before {
+position: absolute;
+content: "PLN/MSC";
+color: rgb(196, 196, 196);
+font-size: 100%;
+font-weight: 600;
+left: 28px;
+top: 90px;
+}
+
+#circle4_sup {
+position: absolute;
+color: rgb(196, 196, 196);
+left: 90px;
+top: 35px;
+font-size: 90%;
+font-weight: 700;
+}
+
+#ztd3 {
+position: absolute;
+color: rgb(149, 149, 149);
+background-color: rgb(228, 228, 228);
+top: 230px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#serwis3 {
+position: absolute;
+color: rgb(111, 111, 111);
+background-color: rgb(241, 241, 241);
+top: 275px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#g6l {
+position: absolute;
+color: rgb(149, 149, 149);
+background-color: rgb(228, 228, 228);
+top: 320px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#porady_projektanta {
+position: absolute;
+color: rgb(111, 111, 111);
+background-color: rgb(241, 241, 241);
+top: 365px;
+left: 0px;
+width: 300px;
+height: 30px;
+padding: 5px;
+padding-top: 10px;
+text-align: center;
+font-size: 130%;
+font-weight: 400;
+}
+
+#dolacz3 {
+position: absolute;
+color: rgb(255, 255, 255);
+background-color: rgb(39, 199, 171);
+border-radius: 8px;
+top: 440px;
+left: 100px;
+width: 100px;
+height: 20px;
+padding: 5px;
+text-align: center;
+font-size: 95%;
+font-weight: 400;
+line-height: 20px;
+}
+
+/* styl box3 */
+
+#box3:hover {
+border-color: rgb(39, 199, 171);
+background-color: rgb(39, 199, 171);
+}
+
+#box3:hover #circle_3 {
+box-shadow: 0 0 0 17px rgb(39, 199, 171);
+background-color: rgb(255, 255, 255);
+}
+
+#box3:hover #advance_plan {
+color: white;
+}
+
+#box3:hover #circle4 {
+box-shadow: 0 0 0 2px rgb(39, 199, 171);
+} 
+
+#box3:hover #circle4:after {
+color: rgb(39, 199, 171);
+}
+
+#box3:hover #circle4:before {
+color: rgb(39, 199, 171);
+}
+
+#box3:hover #circle4_sup {
+color: rgb(39, 199, 171);
+}
+
+#box3:hover #ztd3 {
+background-color: rgb(255, 255, 255);
+}
+
+#box3:hover #serwis2 {
+color: rgb(164, 164, 164);
+}
+
+#box3:hover #g6l {
+background-color: rgb(255, 255, 255);
+}
+
+
+#box3:hover #dolacz3 {
+background-color: rgb(255, 255, 255);
+color: rgb(39, 199, 171);
+}
+
+#kontakt1 {
+position: absolute;
+top: 1600px;
+left: 100px;
+color: rgb(86, 86, 86);
+width: 300px;
+font-size: 140%;
+font-weight: 500;
+border-bottom: 8px solid rgb(39, 199, 171);
+}
+
+/* FORMULARZ */
+
+form {
+position: absolute;
+top: 1800px;
+padding: 50px;
+box-sizing: border-box;
+}
+
+#input1{
+display: block;
+border: 1px solid rgb(39, 199, 171);
+width: 690px;
+height: 60px;
+padding-top: 0px;
+padding-left: 16px;
+font-size: 32px;
+font-weight: 300;
+font-family: raleway;
+}
+
+#input1::placeholder {
+color: rgb(215, 215, 215);
+
+}
+
+#input2{
+display: block;
+border: 1px solid rgb(39, 199, 171);
+width: 690px;
+height: 60px;
+padding-top: 0px;
+padding-left: 15px;
+font-size: 32px;
+font-weight: 50;
+font-family: raleway;
+font-weight: 300;
+}
+
+#input2::placeholder {
+color: rgb(215, 215, 215);
+}
+
+#input3{
+display: block;
+border: 1px solid rgb(39, 199, 171);
+width: 690px;
+height: 95px;
+padding-bottom: 150px;
+padding-left: 15px;
+font-size: 32px;
+font-weight: 50;
+font-family: raleway;
+font-weight: 300;
+}
+
+#input3::placeholder {
+color: rgb(215, 215, 215);
+}
+
+#krzeslo3 {
+position: absolute;
+top: 1800px;
+left: 800px;
+}
+
+#checkbox {
+position: absolute;
+top: 300px;
+left: 800px;
+width: 50px;
+height: 50px;
+background-color: green;
+border-color: green;
+color: white;
+cursor: pointer;
+box-shadow: 0 0 0 3px solid green;
+}
+
+#checkbox::before {
+position: absolute;
+content: "Zgadzam się na przetwarzanie danych osobowych";
+left: 60px;
+top: 5px;
+color: rgb(206, 206, 206);
+font-size: 20px;
+font-weight: 300;
+font-family: raleway;
+width: 300px;
+}
+
+#wyslij {
+position: absolute;
+border-style: none;
+background-color: rgb(36, 186, 159);
+color: rgb(255, 255, 255);
+border-radius: 10px;
+border-color: rgb(36, 186, 159);
+box-shadow: 0 0 0 3px solid rgb(36, 186, 159);
+left: 805px;
+bottom: 100px;
+width: 300px;
+height: 64px;
+font-size: 180%;
+font-family: raleway;
+font-weight: 600;
+cursor: pointer;
+}
+
+#wyslij:hover {
+box-shadow: none;
+}
+
+#copyright {
+position: absolute;
+top: 2360px;
+left: 54px;
+font-size: 100%;
+color: rgb(177, 177, 177);
+font-weight: 600;
+margin-bottom: 40px;
+}
+
+#flickr {
+position: absolute;
+top: 2360px;
+left: 810px;
+cursor: pointer;
+}
+
+#vimeo {
+position: absolute;
+top: 2357px;
+left: 850px;
+cursor: pointer;
+}
+
+#pinterest {
+position: absolute;
+top: 2357px;
+left: 890px;
+cursor: pointer;
+}
+
+#twitter {
+position: absolute;
+top: 2364.5px;
+left: 939px;
+width: 2.5%;
+cursor: pointer;
+}
+
+#end {
+position: absolute;
+top: 2355px;
+left: 1100px;
+font-size: 20px;
+color: rgb(177, 177, 177);
+font-weight: 500;
+letter-spacing: 1px;
+}
